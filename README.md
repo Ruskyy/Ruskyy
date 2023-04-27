@@ -1,7 +1,6 @@
 
 # Rusky
-
-###Your fellow internet Husky
+Your fellow internet husky.
 
 ###Area of work
 Im an azure integration specialist.
