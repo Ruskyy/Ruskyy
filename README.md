@@ -1,7 +1,7 @@
 
 # Rusky
 Your fellow internet husky.<br>
-Im an azure integration specialist.
+Im an azure integration specialist.<br>
 I've worked with multiple clients in all sorts of system integrations.
 
 
