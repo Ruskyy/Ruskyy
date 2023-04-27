@@ -2,7 +2,7 @@
 # Rusky
 Your fellow internet husky.
 
-###Area of work
+##Area of work
 Im an azure integration specialist.
 I've worked with multiple clients in all sorts of system integrations.
 
